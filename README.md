@@ -48,7 +48,7 @@ Country filters help identify where content is concentrated and where to expand
 
 Overall, this dashboard turns raw data into meaningful insights for better decision-making.
 
-### Tools Used  :tools:
+### Tools Used :tools:
 Power BI
 Excel / Data Processing
 ### Dashboard Preview :movie_camera: 
