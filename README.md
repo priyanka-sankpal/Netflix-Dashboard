@@ -48,9 +48,9 @@ Country filters help identify where content is concentrated and where to expand
 
 Overall, this dashboard turns raw data into meaningful insights for better decision-making.
 
-### Tools Used :tools:
-Power BI
-Excel / Data Processing
+### Tools Used
+-Power BI
+-Excel (data processing)
 ### Dashboard Preview :movie_camera: 
 So what the Dashboard look like here
 https://github.com/priyanka-sankpal/Netflix-Dashboard/blob/main/netflix%20dashboard.png
