@@ -17,42 +17,42 @@ The goal of this dashboard is to simplify Netflix data and help stakeholders:
 
 ### Key Visuals Walkthrough
 KPI Cards:
--Shows total movies, TV shows, and overall content count
+-Shows total movies, TV shows, and overall content count.
 
 Bar Chart (Rating by Type):
--Helps identify which ratings have the most content
+-Helps identify which ratings have the most content.
 
 Line Chart (Year-wise Trend):
--Shows how content has grown over time
+-Shows how content has grown over time.
 
 Donut Chart (Movies vs TV Shows):
--Clearly shows that movies dominate the platform
+-Clearly shows that movies dominate the platform.
 
 Gauge Chart (Total Shows):
--Gives a quick snapshot of total content
+-Gives a quick snapshot of total content.
 
 Filters (Country & Type):
--Allows users to explore specific segments
+-Allows users to explore specific segments.
 
 ### Business Impact & Insights :briefcase:
-This dashboard helps solve key business questions like
+This dashboard helps solve key business questions like,
 
 ### Content Strategy:
-Movies are more than TV shows, helping decide where to invest more
+Movies are more than TV shows, helping decide where to invest more.
 ### Audience Targeting:
-Most content falls under TV-MA and TV-14, indicating focus on mature audiences
+Most content falls under TV-MA and TV-14, indicating focus on mature audiences.
 ### Growth Planning:
-Content increased rapidly after 2000, showing expansion trends
+Content increased rapidly after 2000, showing expansion trends.
 ### Regional Insights:
-Country filters help identify where content is concentrated and where to expand
+Country filters help identify where content is concentrated and where to expand.
 
-Overall, this dashboard turns raw data into meaningful insights for better decision-making.
+#### Overall, this dashboard turns raw data into meaningful insights for better decision-making.
 
 ### Tools Used
 -Power BI
 -Excel (data processing)
 ### Dashboard Preview :movie_camera: 
-So what the Dashboard look like here
+So what the Dashboard look like here,
 https://github.com/priyanka-sankpal/Netflix-Dashboard/blob/main/netflix%20dashboard.png
 
 ### Final Note :white_check_mark:
