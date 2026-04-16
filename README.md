@@ -1,7 +1,7 @@
 # Project Title
 ## Netflix Content Analysis Dashboard
 
-## Short Desription
+### Short Desription
 
 This project is a Power BI dashboard that explores Netflix’s content library. It helps understand how movies and TV shows are distributed across ratings, years, and types using simple and interactive visuals.
 
@@ -9,17 +9,17 @@ This project is a Power BI dashboard that explores Netflix’s content library. 
 
 Netflix has a large and growing content library, but it’s difficult to quickly understand what kind of content is being added, what users are mostly watching, and where the focus is (movies or TV shows). Without clear insights, it becomes hard to plan content strategy and target the right audience.
 
-## Goal
+## Goal 
 The goal of this dashboard is to simplify Netflix data and help stakeholders:
 -Understand content distribution
 -Identify trends over time
--Make better decisions about content planning
+-Make better decisions about content planning :rocket:
 
 ## Key Visuals Walkthrough
 KPI Cards:
 -Shows total movies, TV shows, and overall content count
 
-##.Bar_Chart:Bar Chart (Rating by Type):
+Bar Chart (Rating by Type):
 -Helps identify which ratings have the most content
 
 Line Chart (Year-wise Trend):
