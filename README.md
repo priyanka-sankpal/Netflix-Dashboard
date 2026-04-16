@@ -1,7 +1,7 @@
 # Project Title
 # Netflix Content Analysis Dashboard
 
-📌# Short Desription
+# Short Desription
 
 This project is a Power BI dashboard that explores Netflix’s content library. It helps understand how movies and TV shows are distributed across ratings, years, and types using simple and interactive visuals.
 
